@@ -1,0 +1,12 @@
+The atom has a radius. It is called the Bohr radius. This was
+discovered by Niels Bohr.
+The atom has protons and electrons. The hydrogen atom has one
+electron and one proton. The proton is at the center of the atom.
+The electron is not orbiting around the proton like they had originally
+thought. The electron is at an energy level somewhere in the hot air
+balloon on one side of the proton and it is spinning with a value
+of +1 or -1 and identified as j.
+An atom is called an ion if the number of electrons is not equal to the
+number of protons. for example, if an atom looses an electron, then the
+atom is called a positive ion. If an atom gains an electron, then it is
+called a negative ion.
