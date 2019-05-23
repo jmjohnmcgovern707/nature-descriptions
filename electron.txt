@@ -1,0 +1,13 @@
+An electron has mass.
+An electron is either positive or negative.
+if an electron is negative is is drawn with the arrows pointing toward it.
+if an electron is positive is is drawn with arrows pointing away from it.
+if a voltage is applied to a conductor the negative electrons flow to the positive electrons.
+1 columb of electrons is 6.242 x 10^18 electrons.
+1 joule of energy is equal to 1 Coulumb x 1 Volt
+The word joule came from English physicist James Prescott Joule.
+Electrons flow through conductors.
+Flowing electrons through a conductor are called free electrons.
+Free electrons are electrons that have been freed from their atoms.
+An electron is originally in the atom. For example they hydrogen atom contains 1 electron.
+The electron has a spin too.
